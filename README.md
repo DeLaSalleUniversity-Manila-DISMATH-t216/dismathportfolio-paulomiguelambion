@@ -77,3 +77,10 @@ TRUTH TABLE FOR BICONDITIONAL
 |F|F|T|
 
 ##WEEK 2 Day 2 (January 27, 2016 Wednesday)
+
+* Today we've discussed about Logic Laws and Logial Equivalences.
+* I've learned about Identity LAw, Domination Law which states that Truth always dominates in disjunction (max) and False always dominates in Conjuction (min).
+* Negation states that in *disjuction*, when a subject is paired by its negation then the result will always be **True** however, it is always **False** in *conjunction*.
+* Indempotent Law says that when a statement is added or multiplied by itself, then the answer will always be itself.
+* I've also learned that every logical laws except for ***De Morgan's Law and Absorption Law*** are all present in algebra.
+* I've also learned that it is important to consider every laws to use or every steps to use in getting the correct result in evaluating or prooving of statements.
