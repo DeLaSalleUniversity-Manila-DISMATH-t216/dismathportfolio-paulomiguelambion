@@ -42,7 +42,7 @@ TRUTH TABLE FOR CONJUNCTION
 
 TRUTH TABLE FOR DISJUNCTION
 
-|**p**|**q**|**p_q**|
+|**p**|**q**|**p vq**|
 |:-------:|:-------:|:-------:|
 |T|T|T|
 |T|F|T|
@@ -51,7 +51,7 @@ TRUTH TABLE FOR DISJUNCTION
 
 TRUTH TABLE FOR EXCLUSIVE DISJUNCTION
 
-|**p**|**q**|**p_q**|
+|**p**|**q**|**p⊕ q**|
 |:-------:|:-------:|:-------:|
 |T|T|F|
 |T|F|T|
@@ -60,7 +60,7 @@ TRUTH TABLE FOR EXCLUSIVE DISJUNCTION
 
 TRUTH TABLE FOR CONDITIONAL
 
-|**p**|**q**|**p_q**|
+|**p**|**q**|**p→q**|
 |:-------:|:-------:|:-------:|
 |T|T|T|
 |T|F|F|
@@ -69,11 +69,11 @@ TRUTH TABLE FOR CONDITIONAL
 
 TRUTH TABLE FOR BICONDITIONAL
 
-|**p**|**q**|**p_q**|
+|**p**|**q**|**p↔q**|
 |:-------:|:-------:|:-------:|
 |T|T|T|
 |T|F|F|
 |F|T|F|
 |F|F|T|
 
-
+##WEEK 2 Day 2 (January 27, 2016 Wednesday)
