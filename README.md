@@ -84,3 +84,42 @@ TRUTH TABLE FOR BICONDITIONAL
 * Indempotent Law says that when a statement is added or multiplied by itself, then the answer will always be itself.
 * I've also learned that every logical laws except for ***De Morgan's Law and Absorption Law*** are all present in algebra.
 * I've also learned that it is important to consider every laws to use or every steps to use in getting the correct result in evaluating or prooving of statements.
+
+##WEEK 3 Day 1 (February 01, 2016 Monday)
+
+* Today Today I've learned new terms like ***Coverse, counter example, inverse and contrapositive***.
+* also, inverse is not equal to the implication however contrapositive is.
+
+######COVERSE
+
+|**p**|**q**|**p→q**|**q→p** (**CONVERSE**)|
+|:-------:|:-------:|:-------:|:-------:|
+|T|T|T|T|
+|T|F|F*|F*|
+|F|T|T|T|
+|F|F|T|T|
+
+  - (*) an example of counter example
+
+######INVERSE
+
+|**p**|**q**|**p→q**|**¬p → ¬q** (**INVERSE**)|
+|:-------:|:-------:|:-------:|:-------:|
+|T|T|T|T|
+|T|F|F|F|
+|F|T|T|T|
+|F|F|T|T|
+
+######CONTRAPOSITIVE
+
+|**p**|**q**|**p→q**|**¬q → ¬p**(**CONTRAPOSITIVE**)|
+|:-------:|:-------:|:-------:|:-------:|
+|T|T|T|T|
+|T|F|F|T|
+|F|T|T|F|
+|F|F|T|T|
+
+* TAUTOLOGY means that in all condition the answer will always be **true**.
+* we've also tackled about **UNIVERSAL and  EXISTENTIAL QUANTIFIER.
+* Unversal Quatifier can only be true if and only if all the values of a variable in a particular domain is true.
+* Existential Quantifier o the otherhand can be true if and only if at least one of the values of a variable in a particular domain is true.
