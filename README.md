@@ -123,3 +123,14 @@ TRUTH TABLE FOR BICONDITIONAL
 * we've also tackled about **UNIVERSAL and  EXISTENTIAL QUANTIFIER.
 * Unversal Quatifier can only be true if and only if all the values of a variable in a particular domain is true.
 * Existential Quantifier o the otherhand can be true if and only if at least one of the values of a variable in a particular domain is true.
+* 
+
+##WEEK 3 Day 2 (February 3, 2016 Wednesday)
+
+* Last meeting we were assigned to read about Nested Quatifiers and I have learned that it is two quantifiers are said to be nested if one is within the scopes of the other.
+* Als, we've discussed about Inference. I've learned that unlike nested quatifiers, it neither use a property nor a predicate but a premise in making conditions.
+* We've also discussed about new terminologies such as **argument** which means a sequence of statements that end with a conclusion, **valid** that means the conclusion or final statement of the argument, must follow from the truth of the preceeding statements, or premise, of the argument (tatology), and **fallacy** which means a common form of incorrect reasoning.
+* We've also discussed on how to  determine wheter an argument is valid and the conclusion is true.
+* Lastly, we prove the table known as ***Rules of Inference*** table to be a valid argument and with true conclusion.
+
+
