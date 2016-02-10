@@ -133,4 +133,10 @@ TRUTH TABLE FOR BICONDITIONAL
 * We've also discussed on how to  determine wheter an argument is valid and the conclusion is true.
 * Lastly, we prove the table known as ***Rules of Inference*** table to be a valid argument and with true conclusion.
 
+###WEEK 4 Day 1 (February 02, 2016 Wednesday)
 
+*  Today we continue our discussion about Rules of Inference to Build Arguments.
+*  We've identified the characteristic of a biconditional statement using the conditional statement.
+*  We've also solved a connected arguments and solving it using inference, at first, the process is difficult to understand yet after understanding the process we have identified wheter the argument is valid or not using logical expression.
+*  We have also proven that SUPERMAN DOES NOT EXIST.
+*  Lastly we have tackled about ***proof***. We've practice proof using direct proof method.
