@@ -140,3 +140,10 @@ TRUTH TABLE FOR BICONDITIONAL
 *  We've also solved a connected arguments and solving it using inference, at first, the process is difficult to understand yet after understanding the process we have identified wheter the argument is valid or not using logical expression.
 *  We have also proven that SUPERMAN DOES NOT EXIST.
 *  Lastly we have tackled about ***proof***. We've practice proof using direct proof method.
+
+##WEEK 5 Day 2 (February 17, 2016 Wednesday)
+
+* Today We've continued our discussion about proof and today we've tackled about proof using contrapositive and proof by Equivalence or Biconditionals.
+* I've learned that to use contrapositive proof, it is not just making the statement into it's negation. It is important to consider the complete argument and much esiear to find it's equivalent contradiction if the argument will be stated using logical equation.
+* To prove an argument using contradiction, at least one of it's statement or rule will be violated so that the argument ill be proven to be true.
+* Bicon
