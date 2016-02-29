@@ -146,4 +146,24 @@ TRUTH TABLE FOR BICONDITIONAL
 * Today We've continued our discussion about proof and today we've tackled about proof using contrapositive and proof by Equivalence or Biconditionals.
 * I've learned that to use contrapositive proof, it is not just making the statement into it's negation. It is important to consider the complete argument and much esiear to find it's equivalent contradiction if the argument will be stated using logical equation.
 * To prove an argument using contradiction, at least one of it's statement or rule will be violated so that the argument ill be proven to be true.
-* Bicon
+
+##WEEK 6 Day 1 (February 22, 2016 Monday)
+
+* Today we've discussed about Mathematical induction in which is the last topic for the upcoming quiz 1.
+* Induction is prooving an argument using the properties in which the argument is to be proven.
+* It uses two steps of proving, the first is the Basis step in which we prove that the sequence proposition is valid to be proven and next step is called Inductive Step.
+* Recursive or Inductive Definition on the the other hand follows the same idea as the first mentioned, the only difference is the second step in which is calle recursive step.
+
+
+##WEEK 7 Day 1 (February 29, 2016 Monday)
+
+* Today We have studied about Set Theories.
+* We've discuused and recall the terms and concepts from algebra such as: union, intersection, set difference and symmetric difference.
+* Below is the table for the theories and their corresponding mathematical equations.
+
+|**Theory**|**Representation**|**Description**|**Mathematical Equation**|**Example**|
+|:-------:|:-------:|:-------:|:-------:|:-------:|
+|UNION|A ∪ B|objects that belong to set A or set B|A ∪ B = {x | (x∈A) v (x∈B)}|A3,7,9,14,28}|
+|INTERSECTION|A ∩ B|objects that belong to set A or set B|A ∩ B = {x | (x∈A) ^ (x∈B)}|
+|SET DIFFERENCE|A - B or A \ B|objects that belong to A and not to B	|A - B = {x | (x∈A) ^ (x∉B)}|
+|SYMMETRIC DIFFERENCE|A∆B|objects that belong to A or B but not to their intersection	|A ∆ B = {x | ((x∈A) ^ (x∉B)) v ((x∈B) ^ (x∉A))}
