@@ -167,3 +167,10 @@ TRUTH TABLE FOR BICONDITIONAL
 |INTERSECTION|A ∩ B|objects that belong to set A or set B|A ∩ B = {x | (x∈A) ^ (x∈B)}|
 |SET DIFFERENCE|A - B or A \ B|objects that belong to A and not to B	|A - B = {x | (x∈A) ^ (x∉B)}|
 |SYMMETRIC DIFFERENCE|A∆B|objects that belong to A or B but not to their intersection	|A ∆ B = {x | ((x∈A) ^ (x∉B)) v ((x∈B) ^ (x∉A))}
+
+##WEEK 7 Day 2 (March 02, 2016 Wednesday)
+ 
+ * Today We have discussed about Sets.
+ * We differentiate the difference among domain, co-domain and range.
+ * It is quite tricky to understand for it can be be used in so many ways. The usual tricky questions of the professor is really helpful to understand deeply the topic yet reading is really needed to cope-up with the failed grade last quiz.
+ * Also, we have studied the one to one, onto and one to one correspondent and how they differ from each other.
