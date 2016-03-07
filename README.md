@@ -174,3 +174,8 @@ TRUTH TABLE FOR BICONDITIONAL
  * We differentiate the difference among domain, co-domain and range.
  * It is quite tricky to understand for it can be be used in so many ways. The usual tricky questions of the professor is really helpful to understand deeply the topic yet reading is really needed to cope-up with the failed grade last quiz.
  * Also, we have studied the one to one, onto and one to one correspondent and how they differ from each other.
+
+
+##WEEK 8 Day 1 ( March 07, 2016 Monday)
+
+  * Today we have discussed about the tricky and challeging algorithm. I have learned that algorithm is dettailed sensitive in which you are creating an argument through codes. As of now we covered up the searching algorithm and finding the max value in a search. Reading is essential to learn this hard topic but I think practice is much more needed. On the other hand, we are expected to submit the app project next meeting and so far, the process of making it is fun and full of neew knowledge.
