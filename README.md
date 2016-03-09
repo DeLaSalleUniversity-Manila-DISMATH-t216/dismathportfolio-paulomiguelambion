@@ -179,3 +179,8 @@ TRUTH TABLE FOR BICONDITIONAL
 ##WEEK 8 Day 1 ( March 07, 2016 Monday)
 
   * Today we have discussed about the tricky and challeging algorithm. I have learned that algorithm is dettailed sensitive in which you are creating an argument through codes. As of now we covered up the searching algorithm and finding the max value in a search. Reading is essential to learn this hard topic but I think practice is much more needed. On the other hand, we are expected to submit the app project next meeting and so far, the process of making it is fun and full of neew knowledge.
+
+##WEEK 8 Day 2 (March 09,2016 Wednesday)
+
+  * Today We have discussed about binary search. This search is quite long yet I understand the process better than the linear search.
+  * We have also discussed about bubble and insertion sort, the pseudocode is quite long because this is more technical so I have to read, search and understand better on how it works.
