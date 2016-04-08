@@ -184,3 +184,28 @@ TRUTH TABLE FOR BICONDITIONAL
 
   * Today We have discussed about binary search. This search is quite long yet I understand the process better than the linear search.
   * We have also discussed about bubble and insertion sort, the pseudocode is quite long because this is more technical so I have to read, search and understand better on how it works.
+ 
+##WEEK 10 Day 1 (March 21, 2016 Monday)
+  *Quiz 2
+
+##WEEK 11 Day 1 (March 28, 2016 Monday)
+  * Today we are introduced to a new topic called Graphs.
+  * I have read a few of this topic in the book regarding wheels, cycles or simple graph and complete graph.
+  * One topic for sure that I will like in this tpic is finding the Euler Path or circuit given the rules on how to identify one.
+
+##WEEK 11 Day 2 (March 30, 2016 Wednesday)
+  * Today we have continued discussing about graphs.
+  * We've finished our topic for the coverage of quiz 3 next meeting with the topic kuratowski's theorem.
+  * Graphs are sometimes easy yet sometimes hard to understand because sometimes they can be tricy to understand.
+  * Identifying a Hamiltinian path or circiut for me is much easier than idenifying a Euler path or circuit because nodes are easily seen if it is already covered or not.
+  * Identifying a planar graph as well is really tricky some of the times, you need to visually twist the nodes and edges for you to identify whether they are planar or not and sometimes you can end up saying it is a non-planar but you cannot defend why.
+
+##WEEK 12 Day 1 (April 04, 2016 Monday)
+  *Quiz 3
+  
+##WEEK 12 Day 2 (April 06, 2016 Wednesday)
+  * Today we've studied about Trees and Modeling Computation
+  * Trees are sort of a cool topic, because it is easy to understand yet I need to review the idea of complexity because I found it hard to connect it with this topic.
+  * With the given formulas in trees, it makes the problem easier to understand yet, more analyzation on what formula to use for every problem must really be considered.
+  * Modeling Computation is qite interesting as well espaecially when it comes to the application where we applied the knowledge to a vending machine.
+  * at first glimps, modeling computation is hard to understand yet if analayze clearly and with proper background regarding its maps, it easy to understand and analyze.
